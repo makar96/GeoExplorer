@@ -4,3 +4,6 @@
 Интерфейс будет полностью переработан на современный дизайн
 
 <img width="1262" height="891" alt="image" src="https://github.com/user-attachments/assets/6454bf98-f4b4-46d8-acb3-3f4e703ebbc5" />
+
+<img width="1248" height="861" alt="image" src="https://github.com/user-attachments/assets/aa884ead-c8d7-4029-a562-0d090583b725" />
+
