@@ -3,7 +3,10 @@
 
 Интерфейс будет полностью переработан на современный дизайн
 
-<img width="1262" height="891" alt="image" src="https://github.com/user-attachments/assets/6454bf98-f4b4-46d8-acb3-3f4e703ebbc5" />
+<img width="1217" height="852" alt="image" src="https://github.com/user-attachments/assets/25567fc9-eb18-41d4-8b09-88c292e3a5f7" />
 
-<img width="1248" height="861" alt="image" src="https://github.com/user-attachments/assets/aa884ead-c8d7-4029-a562-0d090583b725" />
 
+<img width="1217" height="847" alt="image" src="https://github.com/user-attachments/assets/ec3b3e38-b00d-4a7f-a24d-96c79c7924cd" />
+
+
+<img width="1226" height="848" alt="image" src="https://github.com/user-attachments/assets/45199d1e-aa90-4ea0-89a2-7ba875e56158" />
